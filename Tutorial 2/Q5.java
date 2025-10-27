@@ -33,11 +33,19 @@ public class Q5 {
         Scanner keyboard = new Scanner(System.out);
         contact = keyboard.nextLine()
          */
-        String contact;
+
         Scanner keyboard = new Scanner(System.in);
-        contact = keyboard.nextLine();
+        String contact = keyboard.nextLine();
         System.out.println(contact);
         keyboard.close();
+
+        /*Problem 5
+        int num = 3000;
+        System.out.printf("%4.2f\n", num);
+         */
+
+        int number = 3000;
+        System.out.printf("%4d\n", number);        
         
     }
 }
