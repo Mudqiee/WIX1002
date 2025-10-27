@@ -3,6 +3,14 @@ import java.util.Scanner;
 public class L2Q6 {
     public static void main (String[] args) {
 
+        /*
+        Write a program that calculates the energy needed to heat water.
+        Q = M * (final temperature – initial temperature) * 4184
+        M = Weight of water in kg
+        Q = Energy in joules
+        The temperature are in degree Celsius
+         */
+
         double water_weights, initial_temp, final_temp, energy_needed;
 
         Scanner input = new Scanner(System.in);
