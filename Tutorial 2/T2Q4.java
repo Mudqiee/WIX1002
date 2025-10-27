@@ -1,4 +1,4 @@
-public class Q4 {
+public class T2Q4 {
     public static void main(String[] args) {
         int matric_number;
         double pi;

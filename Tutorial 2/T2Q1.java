@@ -1,4 +1,4 @@
-public class Q1  {
+public class T2Q1  {
     public static void main(String[] args) {
         //Question 1A
         System.out.print("Faculty of Computer Science ");

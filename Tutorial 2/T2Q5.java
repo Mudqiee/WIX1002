@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q5 {
+public class T2Q5 {
     public static void main (String[] args) {
         
         /* Problem 1

@@ -1,4 +1,4 @@
-public class Q3 {
+public class T2Q3 {
     public static void main (String[] args) {
         //System.Println("Java Programming")
         System.out.println("Java Programming");
