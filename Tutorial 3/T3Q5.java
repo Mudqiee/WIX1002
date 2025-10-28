@@ -19,5 +19,12 @@ public class T3Q5 {
         } else {
             System.out.printf("No, %d is not a leap year.\n", year);
         }
+
+        // The easier version
+        if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0)) {
+            System.out.printf("Yes, %d is a leap year.\n", year);
+        } else {
+            System.out.printf("No, %d is not a leap year.\n", year);
+        }
     }
 }
