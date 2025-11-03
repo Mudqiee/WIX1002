@@ -8,12 +8,12 @@ public class L5Q6 {
         
         // Enter the number of row of Pascal Triangle to generate: 6
         // The Pascal Triangle with 6 row(s)
-        // 1 0 0 0 0 0 
-        // 1 1 0 0 0 0 
-        // 1 2 1 0 0 0 
-        // 1 3 3 1 0 0 
-        // 1 4 6 4 1 0 
-        // 1 5 10 10 5 1
+        // 1  0  0  0  0  0 
+        // 1  1  0  0  0  0 
+        // 1  2  1  0  0  0 
+        // 1  3  3  1  0  0 
+        // 1  4  6  4  1  0 
+        // 1  5 10 10  5  1
 
         // Getting the user input
         System.out.print("Enter the size of Pascal Triangle to generate: ");
