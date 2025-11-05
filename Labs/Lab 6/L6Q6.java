@@ -3,7 +3,7 @@ public class L6Q6 {
     // Write  a  Java  method  that  determine  whether  a  number  is  a  palindromic  prime  and 
     // another  method  that  determine  whether  a  number  is  emirp  (the  number  is  a  prime 
     // number  and  the  reverse  also  a  prime  number  and  is  not  palindromic  prime).  Then, 
-    // write a Java program to use the methods to display the first 20 palindromic prime and emirp.
+    // write a Java program to use the methods to display the first 20 palindromic prime and emirp. 
 
     public static boolean isPalindrome(int number) {
         StringBuilder reverseNumber = new StringBuilder(String.valueOf(number)).reverse();

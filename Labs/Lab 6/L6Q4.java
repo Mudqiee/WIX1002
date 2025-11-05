@@ -1,7 +1,7 @@
 public class L6Q4 {
     // Write  a  Java  method  that  implements  Euclidean  Algorithm  to  return  the  greatest 
     // common  divisor  of  two  positive  integers.  Then,  write  a  program  to  get  the  GCD  for 
-    // (24, 8) and (200, 625).
+    // (24, 8) and (200, 625). 
     
     public static int greatestCommonDivisor(int a, int b) {
         while (b != 0) {

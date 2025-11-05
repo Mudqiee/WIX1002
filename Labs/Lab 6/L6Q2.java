@@ -1,7 +1,7 @@
 public class L6Q2 {
 
     // Write a Java method multiPrint(int n, char c) that prints n copies of character c.
-    // Then, write a Java program to use the method to display the triangles and diamonds.
+    // Then, write a Java program to use the method to display the triangles and diamonds. 
 
     public static void multiPrint(int n, char c) {
         for (int i = 0; i < n; i++) {
