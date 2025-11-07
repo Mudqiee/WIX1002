@@ -45,7 +45,7 @@ public class T7Q3 {
 
     public static void main(String[] args) {
 
-        // Write  a  program  that  convert  a  sentence  into  binary  number  (ASCII  code  8  bit)  and 
+        // Write  a  program  that  convert  a  sentence  into  binary  number  (ASCII  code  8  bit)  and  
         // store  it  in  a  text  file  named  data.txt.  Then,  read  from  the  text  file  and  display  the sentence. 
 
         String location = "./Tutorials/Tutorial 7/data/data.txt";

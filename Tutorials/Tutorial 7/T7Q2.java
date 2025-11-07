@@ -8,7 +8,7 @@ import java.util. Scanner;
 public class T7Q2 {
     public static void main(String[] args) {
 
-        //Correct all the errors
+        //Correct all the errors 
 
         // a. PrintWriter out = new PrintWriter(new FileOutputStream("d:\data\matrix.txt"));
         try {

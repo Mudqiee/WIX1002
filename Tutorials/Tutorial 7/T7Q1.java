@@ -9,7 +9,7 @@ import java.util.Random;
 public class T7Q1 {
     public static void main(String[] args) {
 
-        // a. Store ten random integers within 0 to 1000 to a text file name integer.txt.
+        // a. Store ten random integers within 0 to 1000 to a text file name integer.txt. 
 
         Random rand = new Random();
         try {
