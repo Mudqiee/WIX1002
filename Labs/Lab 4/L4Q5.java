@@ -29,8 +29,10 @@ public class L4Q5 {
         System.out.printf("Player 1: %d, Player 2: %d\n", score_player_1, score_player_2);
         if (score_player_1 > score_player_2) {
             System.out.println("Player 1 Wins!");
-        } else {
+        } else if (score_player_1 < score_player_2) {
             System.out.println("Player 2 Wins!");
+        } else {
+            System.out.println("Tie: Player 1 and Player 2 got same score");
         }
     }
 }
