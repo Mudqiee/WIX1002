@@ -11,7 +11,7 @@ It includes lecture notes, tutorial questions, and lab exercises that gradually 
 **Language:** Java  
 
 ### Topics Covered
-| Week | Topic (English) |
+| Week | Topic |
 |------|------------------|
 | 1 | Course Introduction & Problem Solving |
 | 2 | Java Fundamentals | 
